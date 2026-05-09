@@ -6,7 +6,7 @@ const Navbar = () => {
       <div className="bg-base-100 shadow-sm">
         <div className="navbar  max-w-[1500px] mx-auto">
           <div className="flex-1">
-            <a className="btn btn-ghost text-3xl font-bold">
+            <a className="btn btn-ghost md:text-xl lg:text-3xl font-bold">
               CS — Ticket System
             </a>
           </div>
