@@ -1,0 +1,137 @@
+[
+  {
+    "id": "TKT-1001",
+    "title": "Website is loading very slowly",
+    "description": "The homepage takes 8-10 seconds to load. Other pages are also slow.",
+    "customer": "Rahat Ali",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2026-05-07T10:30:00Z"
+  },
+  {
+    "id": "TKT-1002",
+    "title": "Unable to login to the account",
+    "description": "Email and password are correct but clicking login does nothing.",
+    "customer": "Sumaiya Khatun",
+    "priority": "Urgent",
+    "status": "In Progress",
+    "createdAt": "2026-05-07T14:15:00Z"
+  },
+  {
+    "id": "TKT-1003",
+    "title": "Payment deducted but order not confirmed",
+    "description": "Paid via bKash but order status is still showing as Pending.",
+    "customer": "Abdullah Khan",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2026-05-06T09:45:00Z"
+  },
+  {
+    "id": "TKT-1004",
+    "title": "Cannot upload profile picture",
+    "description": "Getting error when trying to upload a new profile photo.",
+    "customer": "Nusrat Jahan",
+    "priority": "Medium",
+    "status": "Resolved",
+    "createdAt": "2026-05-05T16:20:00Z"
+  },
+  {
+    "id": "TKT-1005",
+    "title": "Not receiving notifications on mobile app",
+    "description": "No push notifications for order status updates.",
+    "customer": "Fahim Hossain",
+    "priority": "Medium",
+    "status": "In Progress",
+    "createdAt": "2026-05-07T11:05:00Z"
+  },
+  {
+    "id": "TKT-1006",
+    "title": "Dashboard data not loading",
+    "description": "Admin dashboard shows blank, no data is loading.",
+    "customer": "Company Account",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2026-05-08T08:50:00Z"
+  },
+  {
+    "id": "TKT-1007",
+    "title": "Password reset link not working",
+    "description": "Received reset link but clicking it shows an error.",
+    "customer": "Tanvir Ahmed",
+    "priority": "Medium",
+    "status": "Closed",
+    "createdAt": "2026-05-04T13:10:00Z"
+  },
+  {
+    "id": "TKT-1008",
+    "title": "Cannot add players in BPL Team Selection",
+    "description": "Add to Team button not responding.",
+    "customer": "Sourav Chandra",
+    "priority": "Low",
+    "status": "Open",
+    "createdAt": "2026-05-08T18:25:00Z"
+  },
+  {
+    "id": "TKT-1009",
+    "title": "Invoice PDF download not working",
+    "description": "Download button does not work on the invoice page.",
+    "customer": "Mehedi Hasan",
+    "priority": "Medium",
+    "status": "In Progress",
+    "createdAt": "2026-05-07T12:40:00Z"
+  },
+  {
+    "id": "TKT-1010",
+    "title": "Getting logged out automatically",
+    "description": "Session expires after 10-15 minutes of inactivity.",
+    "customer": "Riyaz Uddin",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2026-05-08T10:15:00Z"
+  },
+  {
+    "id": "TKT-1011",
+    "title": "Registration form showing error",
+    "description": "Getting 'Something went wrong' message when submitting registration.",
+    "customer": "Ayesha Siddika",
+    "priority": "Urgent",
+    "status": "Open",
+    "createdAt": "2026-05-08T09:55:00Z"
+  },
+  {
+    "id": "TKT-1012",
+    "title": "Product search not returning results",
+    "description": "No results shown even with correct product name.",
+    "customer": "Shahedul Islam",
+    "priority": "Medium",
+    "status": "Resolved",
+    "createdAt": "2026-05-03T15:30:00Z"
+  },
+  {
+    "id": "TKT-1013",
+    "title": "Request to delete my account",
+    "description": "I want to permanently delete my account.",
+    "customer": "Nazmul Huda",
+    "priority": "Low",
+    "status": "Closed",
+    "createdAt": "2026-05-02T11:20:00Z"
+  },
+  {
+    "id": "TKT-1014",
+    "title": "Images uploaded from mobile are blurry",
+    "description": "Photos taken from mobile become blurry after upload.",
+    "customer": "Sanjida Akter",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2026-05-07T17:45:00Z"
+  },
+  {
+    "id": "TKT-1015",
+    "title": "Text not readable in Dark Mode",
+    "description": "Some texts are white on white background in dark mode.",
+    "customer": "Tania Mirza",
+    "priority": "Low",
+    "status": "In Progress",
+    "createdAt": "2026-05-06T20:10:00Z"
+  }
+]
