@@ -1,9 +1,8 @@
 import React from "react";
 
-const TicketCard = ({ ticket }) => {
-  console.log(ticket);
+const TicketCard = ({ ticket, onClick }) => {
   return (
-    <div className="grid grid-cols-2-2 w-10/12">
+    <div onClick={() => onClick(ticket)} className="grid grid-cols-2-2 w-10/12">
       <div className="card bg-base-500 shadow-xl">
         <div className="card-body mt-3.5">
           <div className="flex justify-between">
@@ -20,7 +19,7 @@ const TicketCard = ({ ticket }) => {
             </div>
             <div className="flex gap-2.5">
               <p>{ticket.customer}</p>
-              <p>{ticket.createdAt}</p>
+              <p>{ticket.createdAt || ticket.data}</p>
             </div>
           </div>
         </div>

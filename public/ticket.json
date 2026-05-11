@@ -124,14 +124,5 @@
     "priority": "Medium",
     "status": "Open",
     "createdAt": "2026-05-07T17:45:00Z"
-  },
-  {
-    "id": "TKT-1015",
-    "title": "Text not readable in Dark Mode",
-    "description": "Some texts are white on white background in dark mode.",
-    "customer": "Tania Mirza",
-    "priority": "Low",
-    "status": "In Progress",
-    "createdAt": "2026-05-06T20:10:00Z"
   }
 ]
