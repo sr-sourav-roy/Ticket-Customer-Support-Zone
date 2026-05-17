@@ -4,14 +4,14 @@ const Navbar = () => {
   return (
     <div>
       <div className="bg-base-100 shadow-sm">
-        <div className="navbar  max-w-[1500px] mx-auto">
+        <div className="navbar  max-w-[1500px] mx-auto ">
           <div className="flex-1">
-            <a className="btn btn-ghost md:text-xl lg:text-3xl font-bold">
+            <a className="btn btn-ghost md:text-xl lg:text-3xl font-bold ">
               CS — Ticket System
             </a>
           </div>
-          <div className="flex gap-3.5 items-center">
-            <div className="flex gap-6">
+          <div className=" lg:flex gap-3.5 items-center ">
+            <div className="hidden lg:flex gap-6 ">
               <button className=" hover:bg-gray-300 p-3 rounded-xl">
                 Home
               </button>
@@ -29,7 +29,7 @@ const Navbar = () => {
                 Contact
               </button>
             </div>
-            <div className="btn bg-[#752AD5] text-[#FFFFFF] text-xl p-5">
+            <div className="btn bg-[#752AD5] text-[#FFFFFF] lg:text-xl lg:p-5">
               {" "}
               <span className="">+</span>
               <span>New Ticket</span>

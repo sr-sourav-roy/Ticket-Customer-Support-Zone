@@ -80,5 +80,5 @@ const Tasks = ({ inProgress, resolved, onComplete }) => {
     </div>
   );
 };
-
+React;
 export default Tasks;
